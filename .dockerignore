@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+.venv
+venv
+.git
+.gitignore
+data/
+runs/
+outputs/
+*.csv
+*.json
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
