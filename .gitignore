@@ -86,7 +86,6 @@ outputs/
 predictions/
 
 # Generated CSV / JSON datasets
-data/*.csv
 data/*.json
 
 # ============================================================
